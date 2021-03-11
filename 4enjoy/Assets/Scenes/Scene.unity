@@ -902,7 +902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxLives: 5
-  _maxTime: 15
+  _maxTime: 20
 --- !u!1 &342828351
 GameObject:
   m_ObjectHideFlags: 0
